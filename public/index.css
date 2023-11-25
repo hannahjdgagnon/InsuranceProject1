@@ -10,9 +10,15 @@ body {
 
 header {
   background-color: #1a1a1a; /* Dark grey header background */
+<<<<<<< HEAD
   padding: 1rem;
 }
 
+=======
+}
+
+
+>>>>>>> origin/master
 .header-content {
   display: flex;
   justify-content: space-between;
@@ -55,4 +61,8 @@ footer {
 .footer-content {
   width: 100%; /* Set the width to your desired percentage */
   margin: 0 auto; /* Center the footer content */
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/master
